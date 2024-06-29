@@ -4,7 +4,7 @@
 
 
 #### Um jogo que usa como pricipal forma de sorteio o termo __RANDINT__ da biblioteca __RANDOM__. E as funções __IF__, __ELIF__ e __ELSE__ para comparar as escolhas e decidir um vencedor.
-> #### __Desenvoldido por [Iorgp06](https://github.com/igorgp06).__
+> #### __Desenvoldido por [Igorgp06](https://github.com/igorgp06).__
 > #### __Nova versão 2.0 em breve.__
 
 ## Como funciona?
